@@ -1,4 +1,3 @@
-Press Up to jump
 Press Left to turn left
 Press Right to turn right
 Press Space to shoot
